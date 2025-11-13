@@ -2,7 +2,7 @@
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
+*.pyd 
 
 # Virtual environment
 # This is crucial to avoid uploading all your installed packages
